@@ -1,0 +1,22 @@
+*{
+    border: solid 1px black;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: red;
+}
+
+#primero{
+    color: red;
+}
+
+
+p.parrafo{
+    color: blue;
+}
+
+.big{
+    font-size: 25px;
+}

@@ -1,0 +1,8 @@
+ body{
+    background-color: darkgray;
+    background-image: url(imagenes-2/plane-5.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+ }
+    
